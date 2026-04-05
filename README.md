@@ -1,5 +1,3 @@
----
-
 # 📊 Power BI Electronic Sales Analytics Dashboard
 
 > **A complete end-to-end Power BI solution for sales performance analysis — from data modeling to executive dashboards**
